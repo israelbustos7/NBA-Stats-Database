@@ -1,21 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[19]:
-
-
-pip install nba_api
-pip install --upgrade nba_api pandas
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 import tkinter as tk
 from tkinter import messagebox
