@@ -4,6 +4,12 @@ from tkinter import messagebox
 from nba_api.stats.endpoints import playergamelog
 from nba_api.stats.static import players
 import pandas as pd
+pip freeze > requirements.txt
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push
+
+
 
 def fetch_player_id(player_name):
     # Search for the player using the nba_api static players module
