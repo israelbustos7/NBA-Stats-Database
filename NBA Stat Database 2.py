@@ -4,10 +4,7 @@ from tkinter import messagebox
 from nba_api.stats.endpoints import playergamelog
 from nba_api.stats.static import players
 import pandas as pd
-pip freeze > requirements.txt
-git add requirements.txt
-git commit -m "Add requirements.txt"
-git push
+
 
 
 
